@@ -1,0 +1,21 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
+
+nav ul {
+    padding: 30px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav li a {
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 3px;
+    margin: 0 30px;
+} 
+
